@@ -29,22 +29,6 @@ This tabular dataset contains listings of all titles available on Netflix, with 
 
 **Place the dataset at:** `/data/netflix_titles.csv`
 
----
-
-## 🚀 How to Run
-
-```bash
-# Install dependencies
-pip install pandas numpy matplotlib seaborn plotly scikit-learn
-
-# Run the full analysis
-python netflix_analysis.py
-```
-
-All outputs (plots + interactive charts) are saved to the working directory automatically.
-
----
-
 ## 📊 What the Script Does
 
 ### 1. Exploratory Data Analysis
